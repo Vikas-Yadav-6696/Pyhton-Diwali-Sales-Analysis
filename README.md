@@ -1,5 +1,11 @@
 # 🎉 Python Diwali Sale Analysis
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=435&lines=Python+Diwali+Sale+Analysis;Data+Analysis+%26+Visualization;Using+Python+%26+Libraries" alt="Typing SVG" />
+</p>
+
+
 ## 📖 Project Overview
 **Python Diwali Sale Analysis** is a comprehensive data analysis project that explores **Diwali sales data** using Python, Pandas, NumPy, Matplotlib, and Seaborn. The project focuses on **data cleaning, preprocessing, and visualization** to reveal key patterns, trends, and customer buying behavior, helping businesses understand which products and categories perform best during the festive season.
 
