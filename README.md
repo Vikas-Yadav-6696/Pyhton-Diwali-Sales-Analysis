@@ -51,6 +51,6 @@ git clone https://github.com/Vikas-Yadav-6696/Python-Diwali-Sale-Analysis.git
 ```
 3. Open the Jupyter Notebook file (.ipynb) and run all cells to explore data cleaning, analysis, and visualizations.
 
-##🤝 Contributions
+#🤝 Contributions
 
 Contributions are welcome! Feel free to fork this repository, suggest improvements, or add additional data analysis techniques and visualizations.
