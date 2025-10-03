@@ -40,4 +40,21 @@
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/Vikas-Yadav-6696/Python-Diwali-Sale-Analysis.git```
+git clone https://github.com/Vikas-Yadav-6696/Python-Diwali-Sale-Analysis.git
+```
+2. Import the necessary Python libraries in a Jupyter Notebook:
+   ```bash
+   import numpy as np
+   import pandas as pd
+   import matplotlib.pyplot as plt %matplotlib inline
+   import seaborn as sns
+    ```
+3. Open the Jupyter Notebook file (.ipynb) and run all cells to explore data cleaning, analysis, and visualizations.
+
+📈 Sample Visualizations
+
+(Optional: You can include images of bar charts or graphs here for a visual preview)
+
+🤝 Contributions
+
+Contributions are welcome! Feel free to fork this repository, suggest improvements, or add additional data analysis techniques and visualizations.
