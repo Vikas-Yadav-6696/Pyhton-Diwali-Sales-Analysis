@@ -69,6 +69,21 @@ git clone https://github.com/Vikas-Yadav-6696/Python-Diwali-Sale-Analysis.git
 
 ---
 
+
+## 🌟 Project Highlights
+
+**Key Highlights of Python Diwali Sale Analysis:**
+- Analyzed **50,000+ sales records** from multiple states.  
+- Generated **insights on top-performing products and categories**.  
+- Created **5+ informative visualizations** including gender, age group, and top states.  
+- Learned and applied **data cleaning, preprocessing, and visualization techniques** with Python libraries.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Completed-100%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Processed-50k%2B_rows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualizations-5+-orange?style=for-the-badge" />
+</p>
+
 ## 🤝 Contributions
 Contributions are welcome! If you want to improve this project, you can:  
 - Fork the repository  
@@ -77,21 +92,6 @@ Contributions are welcome! If you want to improve this project, you can:
 - Share insights or optimize the existing code  
 
 > We encourage collaboration and learning together through open-source contributions!
-
-## 🌟 Project Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Completed-100%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Processed-50k%2B_rows-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualizations-5+-orange?style=for-the-badge" />
-</p>
-
-**Key Highlights of Python Diwali Sale Analysis:**
-- Analyzed **50,000+ sales records** from multiple states.  
-- Generated **insights on top-performing products and categories**.  
-- Created **5+ informative visualizations** including gender, age group, and top states.  
-- Learned and applied **data cleaning, preprocessing, and visualization techniques** with Python libraries.
-
 
 ## 🔗 Connect With Me
 
