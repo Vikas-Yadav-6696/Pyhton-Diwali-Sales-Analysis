@@ -44,11 +44,13 @@
 
 ---
 
+
 ## 📊 Key Insights / Conclusion
 - **Married women**, age group **26–35 years**, from **UP, Maharashtra, and Karnataka**, working in **IT, Healthcare, and Aviation** are more likely to purchase products from **Food, Clothing, and Electronics** categories.  
 - Data visualization and analysis can help businesses **optimize sales strategies** during the Diwali season.
 
 ---
+
 
 ## 🚀 How to Use
 
