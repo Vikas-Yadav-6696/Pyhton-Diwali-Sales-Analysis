@@ -78,6 +78,19 @@ Contributions are welcome! If you want to improve this project, you can:
 
 > We encourage collaboration and learning together through open-source contributions!
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-Yadav-6696&show_icons=true&theme=tokyonight&count_private=true" alt="Vikas Yadav's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-Yadav-6696&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas-Yadav-6696&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="center">
