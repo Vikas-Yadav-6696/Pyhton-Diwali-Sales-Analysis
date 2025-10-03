@@ -78,18 +78,20 @@ Contributions are welcome! If you want to improve this project, you can:
 
 > We encourage collaboration and learning together through open-source contributions!
 
-## 📊 GitHub Stats
+## 🌟 Project Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vikas-Yadav-6696&show_icons=true&theme=tokyonight&count_private=true" alt="Vikas Yadav's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vikas-Yadav-6696&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Completed-100%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Processed-50k%2B_rows-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualizations-5+-orange?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikas-Yadav-6696&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**Key Highlights of Python Diwali Sale Analysis:**
+- Analyzed **50,000+ sales records** from multiple states.  
+- Generated **insights on top-performing products and categories**.  
+- Created **5+ informative visualizations** including gender, age group, and top states.  
+- Learned and applied **data cleaning, preprocessing, and visualization techniques** with Python libraries.
 
----
 
 ## 🔗 Connect With Me
 
