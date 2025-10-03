@@ -65,19 +65,6 @@ git clone https://github.com/Vikas-Yadav-6696/Python-Diwali-Sale-Analysis.git
 ```
 3. Open the Jupyter Notebook file (.ipynb) and run all cells to explore data cleaning, analysis, and visualizations.
 
-## 📈 Sample Visualizations
-Here are some example visualizations from the Diwali sales analysis project:
-
-- **Gender Count:** Bar chart showing the number of male and female customers.  
-- **Gender vs Total Amount:** Bar chart comparing total sales by gender.  
-- **Total Amount vs Age Group:** Visual representation of sales across different age groups.  
-- **Top 10 States by Orders:** Bar chart showing the states with the highest number of orders.  
-- **Top 10 States by Sales Amount:** Bar chart highlighting the states contributing the most to revenue.  
-
-> *Tip: You can replace these descriptions with actual images of your charts using Markdown:*  
-> ```markdown
-> ![Gender Count Chart](path_to_chart_image.png)
-> ```
 ---
 
 ## 🤝 Contributions
@@ -88,3 +75,14 @@ Contributions are welcome! If you want to improve this project, you can:
 - Share insights or optimize the existing code  
 
 > We encourage collaboration and learning together through open-source contributions!
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Vikas-Yadav-6696">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
